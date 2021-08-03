@@ -25,4 +25,4 @@
 ### Under Supervision of
 1. Prof. Minakshi Atre
 2. Prof. Tanuja Khatavkar
-3. Prof. Mahesh Potdar
+3. Prof. Mahesh Potadar
