@@ -4,9 +4,10 @@
 # Data-Analytics Lab
 
 ### Under Supervision of
-1. Prof. Minakshi Atre
-2. Prof. Tanuja Khatavkar
-3. Prof. Mahesh Potadar
+1. Prof. Nikita Chaudhary(Role) 
+2. Prof. Minakshi Atre   (Role)
+3. Prof. Mahesh Potadar  (Role)
+4. Prof. Tanuja Khatavkar  (Head of R&D)
 
 
 ## Main Contributors:
